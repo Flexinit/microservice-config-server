@@ -7,5 +7,6 @@ eureka:
   instance:
     hostname: localhost
 
-message: Hello There
+mytest:
+   message: Hello There
    
